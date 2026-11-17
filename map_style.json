@@ -1,0 +1,68 @@
+{
+  "theme_name": "Retro Paper",
+  "ocean_color": {
+    "r": 175,
+    "g": 205,
+    "b": 212,
+    "a": 255
+  },
+  "land_color": {
+    "r": 238,
+    "g": 228,
+    "b": 205,
+    "a": 255
+  },
+  "water_fill": {
+    "r": 170,
+    "g": 202,
+    "b": 210,
+    "a": 255
+  },
+  "water_line_color": {
+    "r": 170,
+    "g": 202,
+    "b": 210,
+    "a": 255
+  },
+  "water_line_width": 2.5,
+  "park_fill": {
+    "r": 198,
+    "g": 212,
+    "b": 168,
+    "a": 255
+  },
+  "building_fill": {
+    "r": 212,
+    "g": 198,
+    "b": 172,
+    "a": 255
+  },
+  "minor_road_color": {
+    "r": 185,
+    "g": 170,
+    "b": 145,
+    "a": 255
+  },
+  "minor_road_width": 1.8,
+  "major_road_color": {
+    "r": 205,
+    "g": 110,
+    "b": 75,
+    "a": 255
+  },
+  "major_road_width": 3.2,
+  "gps_track_color": {
+    "r": 242,
+    "g": 104,
+    "b": 74,
+    "a": 220
+  },
+  "gps_track_width": 4.0,
+  "route_color": {
+    "r": 30,
+    "g": 110,
+    "b": 155,
+    "a": 240
+  },
+  "route_width": 5.5
+}

@@ -1,0 +1,31 @@
+# 1. Rust 编译产物与调试文件
+/target/
+**/*.rs.bk
+*.pdb
+
+# 2. 本地生成的离线地图数据库与 WAL 临时文件
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.db
+
+# 3. 体积庞大的原始地图数据文件 (超过 GitHub 100MB 限制会导致推送失败)
+*.osm.pbf
+*.pbf
+ne_10m_land.geojson
+*.shp
+*.shx
+*.dbf
+
+# 4. 运行时生成的本地照片媒体库与临时轨迹
+/trip_media/
+*.gpx
+
+# 5. 操作系统与编辑器缓存文件
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
